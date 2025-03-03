@@ -17,7 +17,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado po
 
 ## 📫 Como me encontrar:
 [![GitHub](https://github.com/GabrielChaves03)
-[![Email](https://img.shields.io/badge/Email-gabriel.nascimento.1483087%40sga.pucminas.br-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.nascimento.1483087@sga.pucminas.br)
+📧 **Email:** [gabriel.nascimento.1483087@sga.pucminas.br](mailto:gabriel.nascimento.1483087@sga.pucminas.br)
 
 ---
 
