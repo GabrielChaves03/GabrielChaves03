@@ -16,7 +16,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado po
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChaves03&layout=compact&theme=dark)
 
 ## 📫 Como me encontrar:
-[![Email](https://img.shields.io/badge/Email-gabriel.nascimento.1483087%40sga.pucminas.br-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.nascimento.1483087@sga.pucminas.br)
+[![Email](https://img.shields.io/badge/Email-gabrielchaves0308%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielchaves0308@gmail.com)
 ---
 
 Se gostou do meu perfil, não esqueça de dar um **follow**!🚀
