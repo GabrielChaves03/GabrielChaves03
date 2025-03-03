@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Gabriel Chaves
 
-<!--
-**GabrielChaves03/GabrielChaves03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado por Desenvolvimento de Software e Inteligência Artifical. 🚀
 
-Here are some ideas to get you started:
+## 🔧 Tecnologias e Ferramentas:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 📌 Sobre Mim:
+- 🔭 Atualmente, estou cursando Projeto em Ciência de Dados e Inteligência Artifial.
+- 🌱 Sempre aprendendo mais sobre **desenvolvimento de software e inteligência artificial**.
+- 👯 Busco colaborar em **projetos inovadores e desafiadores**.
+- 🎯 Metas para 2025: **Aprimorar minhas habilidades em DevOps e Power BI**.
+
+## 📊 Estatísticas do GitHub:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielChaves03&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChaves03&layout=compact&theme=dark)
+
+## 📫 Como me encontrar:
+[![GitHub](https://github.com/GabrielChaves03)
+[![Email](https://img.shields.io/badge/Email-gabriel.nascimento.1483087%40sga.pucminas.br-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabriel.nascimento.1483087@sga.pucminas.br)
+
+---
+
+Se gostou do meu perfil, não esqueça de dar um **follow**!🚀
