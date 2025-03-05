@@ -2,9 +2,6 @@
 
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado por Desenvolvimento de Software e Inteligência Artifical. 🚀
 
-## 🔧 Tecnologias e Ferramentas:
-
-
 ## 📌 Sobre Mim:
 - 🔭 Atualmente, estou cursando Projeto em Ciência de Dados e Inteligência Artifial.
 - 🌱 Sempre aprendendo mais sobre **desenvolvimento de software e inteligência artificial**.
