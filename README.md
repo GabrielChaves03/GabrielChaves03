@@ -3,7 +3,7 @@
 Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado por Desenvolvimento de Software e Inteligência Artifical. 🚀
 
 ## 📌 Sobre Mim:
-- 🔭 Atualmente, estou cursando Projeto em Ciência de Dados e Inteligência Artifial.
+- 🔭 Atualmente, estou cursando Projeto em Ciência de Dados e Inteligência Artificial na PUC MINAS.
 - 🌱 Sempre aprendendo mais sobre **desenvolvimento de software e inteligência artificial**.
 - 👯 Busco colaborar em **projetos inovadores e desafiadores**.
 - 🎯 Metas para 2025: **Aprimorar minhas habilidades em DevOps e Power BI**.
