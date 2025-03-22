@@ -18,6 +18,6 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado po
 <a href="https://www.linkedin.com/in/gabrielchaves0308/" target="_blank">
      <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="LinkedIn logo" />
   </a>
----
+
 
 Se gostou do meu perfil, não esqueça de dar um **follow**!🚀
