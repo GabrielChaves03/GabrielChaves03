@@ -8,7 +8,7 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado po
 - 👯 Busco colaborar em **projetos inovadores e desafiadores**.
 - 🎯 Metas para 2025: **Aprimorar minhas habilidades em DevOps e Power BI**.
 
-## 🧠 Certificados:
+## 💻 Certificados:
 - PCD - Fundamentos do Python 1 (Cisco Networking Academy)
 
 ## 📊 Estatísticas do GitHub:
