@@ -8,12 +8,12 @@ Bem-vindo ao meu perfil do GitHub! Sou um entusiasta da tecnologia apaixonado po
 - 👯 Busco colaborar em **projetos inovadores e desafiadores**.
 - 🎯 Metas para 2025: **Aprimorar minhas habilidades em DevOps e Power BI**.
 
+## 🧠 Certificados:
+- PCD - Fundamentos do Python 1 (Cisco Networking Academy)
+
 ## 📊 Estatísticas do GitHub:
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GabrielChaves03&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielChaves03&layout=compact&theme=dark)
-
-## 🧠 Certificados:
-- ""PCD - Fundamentos do Python 1 (Cisco Networking Academy)""
 
 ## 📫 Como me encontrar:
 [![Email](https://img.shields.io/badge/Email-gabrielchaves0308%40gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielchaves0308@gmail.com)
